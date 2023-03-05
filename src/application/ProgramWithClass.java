@@ -1,30 +1,34 @@
 package application;
 
+import entities.Triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program {
+public class ProgramWithClass {
     public static void main (String[] args){
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        double l1A, l2A, l3A, l1B, l2B, l3B;
+
+        Triangle x, y;
+        x = new Triangle();
+        y = new Triangle();
 
         System.out.println("Enter the measures of triangle A: ");
-        l1A = sc.nextDouble();
-        l2A = sc.nextDouble();
-        l3A = sc.nextDouble();
+        x.a = sc.nextDouble();
+        x.b = sc.nextDouble();
+        x.c = sc.nextDouble();
 
         System.out.println("Enter the measures of triangle B: ");
-        l1B = sc.nextDouble();
-        l2B = sc.nextDouble();
-        l3B = sc.nextDouble();
+        y.a = sc.nextDouble();
+        y.b = sc.nextDouble();
+        y.c = sc.nextDouble();
 
-        double p1 = (l1A + l2A + l3A) / 2.0;
-        double area1 = Math.sqrt(p1 * (p1 - l1A) * (p1 - l2A) * (p1 - l3A));
+        double p1 = (x.a + x.b + x.c) / 2.0;
+        double area1 = Math.sqrt(p1 * (p1 - x.a) * (p1 - x.b) * (p1 - x.c));
 
-        double p2 = (l1B + l2B + l3B) / 2.0;
-        double area2 = Math.sqrt(p2 * (p2 - l1B) * (p2 - l2B) * (p2 - l3B));
+        double p2 = (y.a + y.b + y.c) / 2.0;
+        double area2 = Math.sqrt(p2 * (p2 - y.a) * (p2 - y.b) * (p2 - y.c));
 
         System.out.printf("The area of triangle 1 is: %f %nThe area of triangle 2 is: %f %n", area1, area2);
 
@@ -37,3 +41,4 @@ public class Program {
         }
     }
 }
+
