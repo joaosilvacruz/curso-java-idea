@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Criado class">
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Criado novas classes">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/application/ProgramWithClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/entities/Triangle.java" afterDir="false" />
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678028467631</updated>
-      <workItem from="1678028469281" duration="2216000" />
+      <workItem from="1678028469281" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678030209746</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criado novas classes">
+      <created>1678031589086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678031589086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +161,7 @@
     <MESSAGE value="Criado arquivo idea" />
     <MESSAGE value="Criado variaveis" />
     <MESSAGE value="Criado class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado class" />
+    <MESSAGE value="Criado novas classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado novas classes" />
   </component>
 </project>
