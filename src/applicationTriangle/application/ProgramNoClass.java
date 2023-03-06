@@ -1,31 +1,30 @@
-package application;
+package applicationTriangle.application;
 
-import entities.Triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProgramWithClass {
+public class ProgramNoClass {
     public static void main (String[] args){
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-
-        Triangle x, y;
-        x = new Triangle();
-        y = new Triangle();
+        double l1A, l2A, l3A, l1B, l2B, l3B;
 
         System.out.println("Enter the measures of triangle A: ");
-        x.a = sc.nextDouble();
-        x.b = sc.nextDouble();
-        x.c = sc.nextDouble();
+        l1A = sc.nextDouble();
+        l2A = sc.nextDouble();
+        l3A = sc.nextDouble();
 
         System.out.println("Enter the measures of triangle B: ");
-        y.a = sc.nextDouble();
-        y.b = sc.nextDouble();
-        y.c = sc.nextDouble();
+        l1B = sc.nextDouble();
+        l2B = sc.nextDouble();
+        l3B = sc.nextDouble();
 
-        double area1 = x.calculateArea();
-        double area2 = y.calculateArea();
+        double p1 = (l1A + l2A + l3A) / 2.0;
+        double area1 = Math.sqrt(p1 * (p1 - l1A) * (p1 - l2A) * (p1 - l3A));
+
+        double p2 = (l1B + l2B + l3B) / 2.0;
+        double area2 = Math.sqrt(p2 * (p2 - l1B) * (p2 - l2B) * (p2 - l3B));
 
         System.out.printf("The area of triangle 1 is: %f %nThe area of triangle 2 is: %f %n", area1, area2);
 
@@ -38,4 +37,3 @@ public class ProgramWithClass {
         }
     }
 }
-
