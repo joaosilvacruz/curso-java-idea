@@ -20,8 +20,6 @@ public class Product {
         this.quantity = 0;
     }
 
-
-
     public double totalValueInStock(){
         return quantity * price;
     }
