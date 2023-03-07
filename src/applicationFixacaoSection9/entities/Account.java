@@ -1,40 +1,36 @@
 package applicationFixacaoSection9.entities;
 
 public class Account {
-
-    private String info;
     private String holder;
     private String number;
-    private float balance;
+    private double balance;
 
     public Account(){
 
     }
-    public Account(String holder, String number, float initialDepositValue){
+    public Account(String holder, String number, double initialDepositValue){
         this.holder = holder;
         this.number = number;
-        this.balance = initialDepositValue;
+        makeDeposit(initialDepositValue);
     }
     public Account(String holder, String number){
         this.holder = holder;
         this.number = number;
-        this.balance = 0;
     }
 
-    public float makeDeposit(float deposit){
-        this.balance += deposit;
+    public double makeDeposit(double amount){
+        this.balance += amount;
         return this.balance;
     }
 
-    public float makeWithdraw(float withdraw){
-        this.balance -= withdraw - 5.0;
+    public double makeWithdraw(double amount){
+        this.balance -= amount - 5.0;
         return this.balance;
     }
 
     public String toString() {
-        return info
-                + "Account"
-                + this.number
+        return "Account "
+                + number
                 + ", Holder: "
                 + holder
                 + ", Balance: $"
@@ -49,7 +45,7 @@ public class Account {
         return number;
     }
 
-    public float getBalance() {
+    public double getBalance() {
         return balance;
     }
 

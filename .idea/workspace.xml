@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado arquivos">
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado prints">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applicationFixacaoSection9/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationFixacaoSection9/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/entities/Account.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,8 @@
       <workItem from="1678058781106" duration="4081000" />
       <workItem from="1678102917276" duration="7523000" />
       <workItem from="1678184079342" duration="3333000" />
-      <workItem from="1678209314660" duration="5620000" />
+      <workItem from="1678209314660" duration="5736000" />
+      <workItem from="1678231527698" duration="1523000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -257,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678214752702</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adicionado prints">
+      <created>1678215251422</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678215251422</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adicionado prints">
+      <created>1678215257844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678215257844</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +298,8 @@
     <MESSAGE value="Criado novos arquivos" />
     <MESSAGE value="Adicionado métodos" />
     <MESSAGE value="Adicionado arquivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado arquivos" />
+    <MESSAGE value="Adicionado prints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado prints" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
