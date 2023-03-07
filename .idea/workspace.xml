@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado métodos">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/membroEstatico/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/membroNaoEstatico/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/membroNaoEstatico/application/ProgramWithStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/membroNaoEstatico/util/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/membroNaoEstatico/util/CalculatorWithStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationConversion/Tr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationConversion/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationConversion/entities/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/constructor/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/constructor/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/encapsulamento/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/encapsulamento/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationConversion/Tr.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/joaocruz/ws-idea/curso-java/src/anotacoes/encapsulamento",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/anotacoes/encapsulamento" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="applicationConversion" />
       <recent name="anotacoes.membroNaoEstatico" />
@@ -74,14 +75,18 @@
       <recent name="applicationProduct" />
       <recent name="applicationTriangle" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="anotacoes.constructor.entities" />
+      <recent name="anotacoes.constructor.application" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.applicationConversion.application.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="applicationProduct.application.Program" />
+      <option name="MAIN_CLASS_NAME" value="anotacoes.encapsulamento.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="applicationProduct.application.*" />
+          <option name="PATTERN" value="anotacoes.encapsulamento.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.membroEstatico.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.membroEstatico.Program" />
+    <configuration name="anotacoes.constructor.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.constructor.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.membroEstatico.*" />
+          <option name="PATTERN" value="anotacoes.constructor.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.anotacoes.constructor.application.Program" />
         <item itemvalue="Application.applicationConversion.application.Program" />
         <item itemvalue="Application.ProgramWithStatic" />
         <item itemvalue="Application.anotacoes.membroNaoEstatico.application.Program" />
-        <item itemvalue="Application.anotacoes.membroEstatico.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +166,8 @@
       <updated>1678028467631</updated>
       <workItem from="1678028469281" duration="3140000" />
       <workItem from="1678058781106" duration="4081000" />
-      <workItem from="1678102917276" duration="7486000" />
+      <workItem from="1678102917276" duration="7523000" />
+      <workItem from="1678184079342" duration="3252000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -226,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678104056509</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adicionado métodos">
+      <created>1678111052260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678111052260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
