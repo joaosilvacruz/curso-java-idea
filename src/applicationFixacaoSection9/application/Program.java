@@ -10,6 +10,7 @@ public class Program {
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 
+        Account account1 = new Account();
         System.out.print("Enter account number: ");
         String holder = sc.next();
         System.out.print("Enter account holder: ");
@@ -21,9 +22,9 @@ public class Program {
         if (res == 'y') {
             System.out.print("Enter initial deposit value: ");
             initialDeposit = sc.nextFloat();
-            Account account1 = new Account(holder, number, initialDeposit);
+            account1 = new Account(holder, number, initialDeposit);
         } else {
-            Account account1 = new Account(holder, number);
+            account1 = new Account(holder, number);
         }
 
         System.out.println("Account data: ");

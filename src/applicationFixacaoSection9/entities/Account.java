@@ -7,6 +7,9 @@ public class Account {
     private String number;
     private float balance;
 
+    public Account(){
+
+    }
     public Account(String holder, String number, float initialDepositValue){
         this.holder = holder;
         this.number = number;
@@ -35,7 +38,7 @@ public class Account {
                 + ", Holder: "
                 + holder
                 + ", Balance: $"
-                + String.format("%.2f", );
+                + String.format("%.2f",this.balance);
     }
 
     public String getHolder() {

@@ -79,7 +79,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.applicationFixacaoSection9.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.encapsulamento.application.Program" />
       <module name="curso-java" />
@@ -119,19 +119,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.membroNaoEstatico.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.membroNaoEstatico.application.Program" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoes.membroNaoEstatico.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="applicationConversion.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="applicationConversion.application.Program" />
       <module name="curso-java" />
@@ -145,13 +132,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="applicationFixacaoSection9.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="applicationFixacaoSection9.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="applicationFixacaoSection9.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.applicationFixacaoSection9.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.anotacoes.constructor.application.Program" />
         <item itemvalue="Application.applicationConversion.application.Program" />
         <item itemvalue="Application.ProgramWithStatic" />
-        <item itemvalue="Application.anotacoes.membroNaoEstatico.application.Program" />
       </list>
     </recent_temporary>
   </component>
