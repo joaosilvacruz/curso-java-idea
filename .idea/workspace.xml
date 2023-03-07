@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado métodos">
-      <change afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/Tr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/entities/Account.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado arquivos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/constructor/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/constructor/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationFixacaoSection9/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationFixacaoSection9/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +164,7 @@
       <workItem from="1678058781106" duration="4081000" />
       <workItem from="1678102917276" duration="7523000" />
       <workItem from="1678184079342" duration="3333000" />
-      <workItem from="1678209314660" duration="4909000" />
+      <workItem from="1678209314660" duration="5620000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -246,7 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678188827213</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adicionado arquivos">
+      <created>1678214491594</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214491594</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adicionado arquivos">
+      <created>1678214752702</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678214752702</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +281,8 @@
     <MESSAGE value="Criado novas classes" />
     <MESSAGE value="Criado novos arquivos" />
     <MESSAGE value="Adicionado métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado métodos" />
+    <MESSAGE value="Adicionado arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado arquivos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
