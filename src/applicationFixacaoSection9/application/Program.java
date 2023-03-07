@@ -22,14 +22,25 @@ public class Program {
         if (res == 'y') {
             System.out.print("Enter initial deposit value: ");
             initialDeposit = sc.nextFloat();
-            account1 = new Account(holder, number, initialDeposit);
+            Account account1 = new Account(holder, number, initialDeposit);
         } else {
-            account1 = new Account(holder, number);
+            Account account1 = new Account(holder, number);
         }
 
         System.out.println("Account data: ");
         System.out.print(account1);
 
+        System.out.print("Deposit value: ");
+        float deposit = sc.nextFloat();
+        account1.makeDeposit(deposit);
+        System.out.print("Updated account data");
+        System.out.print(account1);
+
+        System.out.print("Enter a withdraw vale: ");
+        float withdraw = sc.nextFloat();
+        account1.makeWithdraw(withdraw);
+        System.out.print("Updated account data");
+        System.out.print(account1);
     }
 
 }
