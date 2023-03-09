@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="adicionado exercicios">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/DataEmTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/DataGlobalParaLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/InstanciandoData.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="adicionado Anotacoes">
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/CalculosDataHora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,20 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataGlobalParaLocal">
+  <component name="RunManager" selected="Application.CalculosDataHora">
+    <configuration name="CalculosDataHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.dataHora.instanciando.CalculosDataHora" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.dataHora.instanciando.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataEmTexto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.dataHora.instanciando.DataEmTexto" />
       <module name="curso-java" />
@@ -118,19 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.exercListas.application.Program" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicios.exercListas.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="anotacoes.matrizes.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.matrizes.Program" />
       <module name="curso-java" />
@@ -146,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculosDataHora" />
         <item itemvalue="Application.DataGlobalParaLocal" />
         <item itemvalue="Application.DataEmTexto" />
         <item itemvalue="Application.InstanciandoData" />
         <item itemvalue="Application.anotacoes.matrizes.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +171,7 @@
       <workItem from="1678293079445" duration="9983000" />
       <workItem from="1678357446832" duration="4153000" />
       <workItem from="1678374501284" duration="1730000" />
-      <workItem from="1678380704734" duration="5327000" />
+      <workItem from="1678380704734" duration="6512000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -336,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678376363870</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="adicionado Anotacoes">
+      <created>1678389497477</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678389497477</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,7 +370,8 @@
     <MESSAGE value="Adicionado funcionalidades" />
     <MESSAGE value="adicionado funcionalidades" />
     <MESSAGE value="adicionado exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionado exercicios" />
+    <MESSAGE value="adicionado Anotacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionado Anotacoes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
