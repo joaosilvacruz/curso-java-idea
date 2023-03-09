@@ -16,14 +16,16 @@ public class Program {
         int n = sc.nextInt();
 
         Employee employee;
-        List<String> listNames = new ArrayList<>();
-        List<Integer> listId = new ArrayList<>();
-        List<Double> listSalary = new ArrayList<>();
-
+        List<Employee> list = new ArrayList<>();
         for (int i=0; i<n; i++){
             System.out.printf("Employee #%d%n", i+1);
             System.out.print("ID: ");
             Integer id = sc.nextInt();
+            while (hasId(list, id)) {
+                System.out.println("Id already taken! Try again: ");
+                System.out.print("ID: ");
+                id = sc.nextInt();
+            }
             sc.nextLine();
             System.out.print("Name: ");
             String name = sc.nextLine();
@@ -31,34 +33,37 @@ public class Program {
             Double salary = sc.nextDouble();
             employee = new Employee(id, name, salary);
 
-            listNames.add(employee.getName());
-            listId.add(employee.getId());
-            listSalary.add(employee.getSalary());
+            list.add(employee);
         }
-
-        System.out.println(listId);
-        System.out.println(listNames);
-        System.out.println(listSalary);
 
         System.out.print("Enter the employee id that will have salary increase: ");
-        int id = sc.nextInt();
-        boolean result = listId.stream().filter(x -> x == id).findAny().isEmpty();
-        if (result == false){
+        int idSalary = sc.nextInt();
+        Integer position = position(list, idSalary);
+        if (position != null){
             System.out.print("Enter the percentage: ");
-            double percentage = sc.nextDouble();
-            int idChoiced = listId.indexOf(id);
-            double currentValue = listSalary.get(idChoiced);
-            double futureValue = currentValue + currentValue * percentage/100;
-            listSalary.set(idChoiced, futureValue);
+            double percent = sc.nextDouble();
+            list.get(position).increaseSalary(percent);
         } else {
-            System.out.println("This id does not exist!");
+            System.out.println("This id doesn't exist!");
         }
-
         System.out.println("List of employees");
-        for (int i = 0; i<listId.size(); i++) {
-            System.out.println(listId.get(i) + ", " + listNames.get(i) + ", " + listSalary.get(i));
+        for (Employee emp: list) {
+            System.out.println(emp);
         }
-
 
     }
+    public static Integer position(List<Employee> list, int id){
+        for (int i = 0; i<list.size(); i++){
+            if (list.get(i).getId() == id){
+                return i;
+            }
+        }
+        return null;
+    }
+
+    public static boolean hasId(List<Employee> list, int id) {
+        Employee emp = list.stream().filter(x -> x.getId() == id).findFirst().orElse(null);
+        return emp != null;
+    }
 }
+

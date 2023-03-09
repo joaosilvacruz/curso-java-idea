@@ -10,9 +10,19 @@ public class Employee {
         this.name = name;
         this.salary = salary;
     }
-    public double increaseSalary(double percentage){
-        return salary + salary * percentage;
+    public void increaseSalary(double percentage){
+         salary += salary * percentage / 100.0;
     }
+
+    public String toString() {
+        return id
+                + ", "
+                + name
+                + ", "
+                + String.format("%.2f", salary);
+    }
+
+
 
     public Integer getId() {
         return id;
