@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="adicionado Anotacoes">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/CalculosDataHora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/enumeracao/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/enumeracao/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/enumeracao/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/enumeracao/entitiesEnums/OrderStatus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,21 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/joaocruz/ws-idea/curso-java/src/anotacoes/encapsulamento&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/joaocruz/ws-idea/curso-java/src/anotacoes/enumeracao/entities",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/anotacoes/encapsulamento" />
@@ -76,7 +79,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculosDataHora">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="CalculosDataHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.dataHora.instanciando.CalculosDataHora" />
       <module name="curso-java" />
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.matrizes.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.matrizes.Program" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.enumeracao.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.matrizes.*" />
+          <option name="PATTERN" value="anotacoes.enumeracao.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.CalculosDataHora" />
         <item itemvalue="Application.DataGlobalParaLocal" />
         <item itemvalue="Application.DataEmTexto" />
         <item itemvalue="Application.InstanciandoData" />
-        <item itemvalue="Application.anotacoes.matrizes.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +174,8 @@
       <workItem from="1678293079445" duration="9983000" />
       <workItem from="1678357446832" duration="4153000" />
       <workItem from="1678374501284" duration="1730000" />
-      <workItem from="1678380704734" duration="6512000" />
+      <workItem from="1678380704734" duration="6924000" />
+      <workItem from="1678443091003" duration="2402000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -341,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678389497477</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="adicionado Anotacoes">
+      <created>1678392350670</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678392350670</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
