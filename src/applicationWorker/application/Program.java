@@ -5,6 +5,7 @@ import applicationWorker.entities.HourContract;
 import applicationWorker.entities.Worker;
 import applicationWorker.entitiesEnums.WorkerLevel;
 
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.time.LocalDate;
@@ -15,10 +16,10 @@ import java.util.Scanner;
 import java.util.logging.Level;
 
 public class Program {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ParseException {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
         System.out.print("Enter department's name: ");
         String departmentName = sc.nextLine();
@@ -36,9 +37,9 @@ public class Program {
         int n = sc.nextInt();
 
         for (int i = 0; i < n; i ++){
-            System.out.printf("Enter contract #%d data: %n", i + 1);
+            System.out.println("Enter contract data: ");
             System.out.print("Date (DD/MM/YYYY): ");
-            Date contractDate = (Date) fmt1.parse(sc.next());
+            Date contractDate = sdf.parse(sc.next());
             System.out.print("Value per hour: ");
             double valuePerHour = sc.nextDouble();
             System.out.print("Duration (hours): ");
@@ -54,7 +55,10 @@ public class Program {
         int month = Integer.parseInt(monthAndYear.substring(0,2));
         int year = Integer.parseInt(monthAndYear.substring(3));
         System.out.println("Name: " + worker1.getName());
-        System.out.println();
+        System.out.println("Department " + worker1.getDepartment().getName());
+        double income = worker1.income(year, month);
+        System.out.printf("Income for %d/%d: %.2f", month, year, income);
+
 
         sc.close();
     }
