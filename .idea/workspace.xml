@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="adicionado Anotacoes">
-      <change afterPath="$PROJECT_DIR$/src/applicationWorker/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationWorker/entities/HourContract.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Criado classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/enumeracao/Program.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/applicationWorker/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationWorker/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationWorker/entities/HourContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationWorker/entities/HourContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationWorker/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationWorker/entities/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678447897323</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Criado classes">
+      <created>1678451662596</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1678451662596</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +402,8 @@
     <MESSAGE value="adicionado funcionalidades" />
     <MESSAGE value="adicionado exercicios" />
     <MESSAGE value="adicionado Anotacoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionado Anotacoes" />
+    <MESSAGE value="Criado classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado classes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
