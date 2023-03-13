@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Aualizado classes">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/heranca/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/heranca/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/heranca/entities/BussinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/heranca/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/polimorfismo/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/polimorfismo/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/polimorfismo/entities/BussinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/polimorfismo/entities/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationEmployee/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationEmployee/entities/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationEmployee/entities/OutsourcedEmployee.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes">
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/metodosAbstratos/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/metodosAbstratos/entities/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/metodosAbstratos/entities/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/metodosAbstratos/entities/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/metodosAbstratos/entitiesEnums/Color.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applicationFixacaoSection9/Tr.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -88,7 +82,20 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.applicationEmployee.application.Program">
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.metodosAbstratos.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.metodosAbstratos.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="anotacoes.heranca.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.heranca.application.Program" />
       <module name="curso-java" />
@@ -141,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="applicationWorker.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="applicationWorker.application.Program" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="applicationWorker.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.applicationEmployee.application.Program" />
         <item itemvalue="Application.anotacoes.polimorfismo.application.Program" />
         <item itemvalue="Application.anotacoes.heranca.application.Program" />
         <item itemvalue="Application.applicationStringBuilder.application.Program" />
-        <item itemvalue="Application.applicationWorker.application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +180,7 @@
       <workItem from="1678380704734" duration="6924000" />
       <workItem from="1678443091003" duration="3713000" />
       <workItem from="1678464835574" duration="2870000" />
-      <workItem from="1678703969776" duration="7905000" />
+      <workItem from="1678703969776" duration="10651000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -405,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678468612347</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Adicionado anotacoes">
+      <created>1678717302265</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678717302265</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +438,8 @@
     <MESSAGE value="adicionado Anotacoes" />
     <MESSAGE value="Criado classes" />
     <MESSAGE value="Aualizado classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aualizado classes" />
+    <MESSAGE value="Adicionado anotacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
