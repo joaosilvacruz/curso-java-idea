@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/tryCatchFinally/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applicationException1/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applicationException1/model/entities/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/CalculosDataHora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/dataHora/instanciando/CalculosDataHora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +80,13 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoes.tryCatchFinally.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.metodosAbstratos.application.Program" />
+  <component name="RunManager" selected="Application.applicationException1.application.Program">
+    <configuration name="CalculosDataHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.dataHora.instanciando.CalculosDataHora" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.metodosAbstratos.application.*" />
+          <option name="PATTERN" value="anotacoes.dataHora.instanciando.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.polimorfismo.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.polimorfismo.application.Program" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.metodosAbstratos.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.polimorfismo.application.*" />
+          <option name="PATTERN" value="anotacoes.metodosAbstratos.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="applicationEmployee.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="applicationEmployee.application.Program" />
+    <configuration name="applicationException1.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="applicationException1.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="applicationEmployee.application.*" />
+          <option name="PATTERN" value="applicationException1.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.applicationException1.application.Program" />
+        <item itemvalue="Application.CalculosDataHora" />
         <item itemvalue="Application.anotacoes.tryCatchFinally.Program" />
         <item itemvalue="Application.anotacoes.tryCatch.application.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.applicationEmployee.application.Program" />
-        <item itemvalue="Application.anotacoes.polimorfismo.application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +180,8 @@
       <workItem from="1678464835574" duration="2870000" />
       <workItem from="1678703969776" duration="11330000" />
       <workItem from="1678735828498" duration="1282000" />
-      <workItem from="1678791934994" duration="961000" />
+      <workItem from="1678791934994" duration="1314000" />
+      <workItem from="1678814185675" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -418,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678739386839</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Adicionado anotacoes">
+      <created>1678793413338</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678793413338</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

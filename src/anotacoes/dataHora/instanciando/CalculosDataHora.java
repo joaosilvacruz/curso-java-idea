@@ -28,8 +28,15 @@ public class CalculosDataHora {
         System.out.println("pastWeekLocalDate: " + pastWeekInstant);
         System.out.println("nextWeekLocalDate: " + nextWeekInstant);
 
+        // CALCULANDO COM LOCALDATETIME
         Duration t1 = Duration.between(d05, d05);
         System.out.println("t1 dias = " + t1.toDays());
+
+        // CALCULANDO COM LOCALDATE
+        Duration t2 = Duration.between(d04.atTime(0, 0), d04.atTime(0,0));
+        System.out.println("t1 dias = " + t1.toDays());
+
+
 
 
 
