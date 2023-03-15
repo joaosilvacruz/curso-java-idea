@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 public class Program {
 
-    // IMPLEMENTAÇÃO DE SOLUÇÃO DE ERROS MUITO RUIM, VISTO QUE
-    // OS TRATAMENTOS ESTÃO DENTRO DO PROGRAMA PRINCIPAL, DELEGAÇÃO INCORRETA
+    // IMPLEMENTAÇÃO DE SOLUÇÃO DE ERROS RUIM, VISTO QUE
+    // OS TRATAMENTOS ESTÃO NO PROGRAMA PRINCIAPL E NA CLASSE, PORÉM SEM O TRY
 
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
