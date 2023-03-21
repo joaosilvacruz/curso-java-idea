@@ -1,4 +1,4 @@
-package anotacoesArquivos.lendoArquivos.application;
+package anotacoesArquivos.lerArquivos;
 
 import java.io.File;
 import java.io.IOException;

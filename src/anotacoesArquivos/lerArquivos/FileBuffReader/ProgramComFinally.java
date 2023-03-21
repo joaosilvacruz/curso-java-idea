@@ -1,10 +1,10 @@
-package anotacoesArquivos.FileBuffReader;
+package anotacoesArquivos.lerArquivos.FileBuffReader;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Program {
+public class ProgramComFinally {
 
     // O BUfferedReader é instanciado a partir do FileReader
     public static void main(String[] args) {
