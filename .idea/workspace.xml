@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Arquivos">
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/Program.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/services/RentalService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,26 +85,13 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.anotacoesInterfaces.problemaSemInterface.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="applicationFiles.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="applicationFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProgramComFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoesArquivos.lerArquivos.FileBuffReader.ProgramComFinally" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoesArquivos.lerArquivos.FileBuffReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="anotacoesInterfaces.problemaSemInterface.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoesInterfaces.problemaSemInterface.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoesInterfaces.problemaSemInterface.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoesInterfaces.problemaSemInterface.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.anotacoesArquivos.informacoesArquivos.Program" />
         <item itemvalue="Application.anotacoesArquivos.manipularPastas.Program" />
         <item itemvalue="Application.anotacoesArquivos.escreverArquivos.Program" />
-        <item itemvalue="Application.ProgramComFinally" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +190,8 @@
       <workItem from="1678881514947" duration="4602000" />
       <workItem from="1679326915210" duration="1969000" />
       <workItem from="1679397138039" duration="8746000" />
-      <workItem from="1679435050017" duration="973000" />
+      <workItem from="1679435050017" duration="1317000" />
+      <workItem from="1679487494421" duration="4646000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -467,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679413162047</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Adicionado anotacoes: Interfaces">
+      <created>1679436422324</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679436422324</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +514,8 @@
     <MESSAGE value="Aualizado classes" />
     <MESSAGE value="Adicionado anotacoes" />
     <MESSAGE value="Adicionado anotacoes: Arquivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: Arquivos" />
+    <MESSAGE value="Adicionado anotacoes: Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: Interfaces" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
