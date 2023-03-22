@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Interfaces">
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Installment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/OnlinePaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/PaypalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/services/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface/model/services/TaxService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/CarRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/model/entities/CarRental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/model/entities/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/entities/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/model/entities/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/services/BrazilTaxService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/model/services/BrazilTaxService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/problemaSemInterface/model/services/RentalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/problema1SemInterface/model/services/RentalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Installment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Installment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/OnlinePaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/OnlinePaymentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +50,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/joaocruz/ws-idea/curso-java/src/anotacoesInterfaces/problema1ComInterface",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "proofread",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/joaocruz/ws-idea/curso-java/src/anotacoesInterfaces/problema1ComInterface&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface" />
@@ -100,7 +85,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoesInterfaces.problema1ComInterface.application.Program">
+  <component name="RunManager" selected="Application.anotacoesInterfaces.exercicio1Fixacao.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="applicationFiles.Program" />
       <module name="curso-java" />
@@ -127,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoesArquivos.manipularPastas.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoesArquivos.manipularPastas.Program" />
+    <configuration name="anotacoesInterfaces.exercicio1Fixacao.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoesInterfaces.exercicio1Fixacao.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoesArquivos.manipularPastas.*" />
+          <option name="PATTERN" value="anotacoesInterfaces.exercicio1Fixacao.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoesInterfaces.exercicio1Fixacao.application.Program" />
         <item itemvalue="Application.anotacoesInterfaces.problema1ComInterface.application.Program" />
         <item itemvalue="Application.anotacoesInterfaces.problema1SemInterface.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.anotacoesArquivos.informacoesArquivos.Program" />
-        <item itemvalue="Application.anotacoesArquivos.manipularPastas.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +192,8 @@
       <workItem from="1679397138039" duration="8746000" />
       <workItem from="1679435050017" duration="1317000" />
       <workItem from="1679487494421" duration="4646000" />
-      <workItem from="1679497295141" duration="3586000" />
+      <workItem from="1679497295141" duration="3712000" />
+      <workItem from="1679521678889" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -496,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679436422324</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Adicionado anotacoes: Interfaces">
+      <created>1679504485647</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679504485647</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
