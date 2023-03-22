@@ -1,4 +1,4 @@
-package anotacoesInterfaces.problemaSemInterface.model.entities;
+package anotacoesInterfaces.problema1SemInterface.model.entities;
 
 public class Vehicle {
     private String model;

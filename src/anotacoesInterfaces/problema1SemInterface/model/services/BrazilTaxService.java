@@ -1,4 +1,4 @@
-package anotacoesInterfaces.problemaSemInterface.model.services;
+package anotacoesInterfaces.problema1SemInterface.model.services;
 
 public class BrazilTaxService {
     public double tax(double amount){

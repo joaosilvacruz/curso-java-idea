@@ -1,7 +1,7 @@
-package anotacoesInterfaces.problemaSemInterface.model.services;
+package anotacoesInterfaces.problema1SemInterface.model.services;
 
-import anotacoesInterfaces.problemaSemInterface.model.entities.CarRental;
-import anotacoesInterfaces.problemaSemInterface.model.entities.Invoice;
+import anotacoesInterfaces.problema1SemInterface.model.entities.CarRental;
+import anotacoesInterfaces.problema1SemInterface.model.entities.Invoice;
 
 import java.time.Duration;
 

@@ -1,4 +1,4 @@
-package anotacoesInterfaces.problemaSemInterface.model.entities;
+package anotacoesInterfaces.problema1SemInterface.model.entities;
 
 import java.time.LocalDateTime;
 

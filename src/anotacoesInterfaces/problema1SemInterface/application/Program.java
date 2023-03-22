@@ -1,13 +1,12 @@
-package anotacoesInterfaces.problemaSemInterface.application;
+package anotacoesInterfaces.problema1SemInterface.application;
 
-import anotacoesInterfaces.problemaSemInterface.model.entities.CarRental;
-import anotacoesInterfaces.problemaSemInterface.model.entities.Vehicle;
-import anotacoesInterfaces.problemaSemInterface.model.services.BrazilTaxService;
-import anotacoesInterfaces.problemaSemInterface.model.services.RentalService;
+import anotacoesInterfaces.problema1SemInterface.model.entities.CarRental;
+import anotacoesInterfaces.problema1SemInterface.model.entities.Vehicle;
+import anotacoesInterfaces.problema1SemInterface.model.services.BrazilTaxService;
+import anotacoesInterfaces.problema1SemInterface.model.services.RentalService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Formatter;
 import java.util.Locale;
 import java.util.Scanner;
 
