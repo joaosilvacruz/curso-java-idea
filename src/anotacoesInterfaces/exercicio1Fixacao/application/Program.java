@@ -3,6 +3,7 @@ package anotacoesInterfaces.exercicio1Fixacao.application;
 import anotacoesInterfaces.exercicio1Fixacao.model.entities.Contract;
 import anotacoesInterfaces.exercicio1Fixacao.model.entities.Installment;
 import anotacoesInterfaces.exercicio1Fixacao.model.services.ContractService;
+import anotacoesInterfaces.exercicio1Fixacao.model.services.PaypalService;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -31,7 +32,7 @@ public class Program {
         System.out.print("Entre com o numero de parcelas: ");
         int n = sc.nextInt();
 
-        ContractService contractService = new ContractService(null);
+        ContractService contractService = new ContractService(new PaypalService());
         contractService.processContract(contract, n);
         System.out.println("Parcelas: ");
         for (Installment installment: contract.getInstallments()){

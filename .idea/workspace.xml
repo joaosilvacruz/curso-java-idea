@@ -7,9 +7,8 @@
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Interfaces">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Installment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/entities/Installment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/OnlinePaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/OnlinePaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/PaypalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/PaypalService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,6 +193,8 @@
       <workItem from="1679487494421" duration="4646000" />
       <workItem from="1679497295141" duration="3712000" />
       <workItem from="1679521678889" duration="1856000" />
+      <workItem from="1679577965829" duration="1684000" />
+      <workItem from="1679585372933" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
