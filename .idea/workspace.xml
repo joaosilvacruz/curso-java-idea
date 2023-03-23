@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Interfaces">
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/defaultMethods/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/defaultMethods/services/BrazilInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/defaultMethods/services/InterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/defaultMethods/services/UsaInterestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/interfaceComparable/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/interfaceComparable/application/in1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/interfaceComparable/entities/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/ContractService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/PaypalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoesInterfaces/exercicio1Fixacao/model/services/PaypalService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,21 +53,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/joaocruz/ws-idea/curso-java/src/anotacoesInterfaces/problema1ComInterface&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/joaocruz/ws-idea/curso-java/src/anotacoesInterfaces/problema1ComInterface",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "proofread",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/anotacoesInterfaces/problema1ComInterface" />
@@ -79,31 +84,19 @@
       <recent name="applicationTriangle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="anotacoesInterfaces.defaultMethods.services" />
       <recent name="applicationException2.application" />
       <recent name="anotacoes.constructor.entities" />
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoesInterfaces.exercicio1Fixacao.application.Program">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="applicationFiles.Program" />
+  <component name="RunManager" selected="Application.anotacoesInterfaces.defaultMethods.application.Program">
+    <configuration name="anotacoesInterfaces.defaultMethods.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoesInterfaces.defaultMethods.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="applicationFiles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="anotacoesArquivos.informacoesArquivos.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoesArquivos.informacoesArquivos.Program" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoesArquivos.informacoesArquivos.*" />
+          <option name="PATTERN" value="anotacoesInterfaces.defaultMethods.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,6 +110,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="anotacoesInterfaces.exercicio1Fixacao.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anotacoesInterfaces.interfaceComparable.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoesInterfaces.interfaceComparable.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoesInterfaces.interfaceComparable.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoesInterfaces.defaultMethods.application.Program" />
+        <item itemvalue="Application.anotacoesInterfaces.interfaceComparable.application.Program" />
         <item itemvalue="Application.anotacoesInterfaces.exercicio1Fixacao.application.Program" />
         <item itemvalue="Application.anotacoesInterfaces.problema1ComInterface.application.Program" />
         <item itemvalue="Application.anotacoesInterfaces.problema1SemInterface.application.Program" />
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.anotacoesArquivos.informacoesArquivos.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +200,7 @@
       <workItem from="1679497295141" duration="3712000" />
       <workItem from="1679521678889" duration="1856000" />
       <workItem from="1679577965829" duration="1684000" />
-      <workItem from="1679585372933" duration="312000" />
+      <workItem from="1679585372933" duration="5579000" />
     </task>
     <task id="LOCAL-00001" summary="Criado arquivo idea">
       <created>1678028820066</created>
@@ -490,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679504485647</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Adicionado anotacoes: Interfaces">
+      <created>1679588719622</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679588719622</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
