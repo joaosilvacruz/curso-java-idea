@@ -84,7 +84,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashCode">
+  <component name="RunManager" selected="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program">
     <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.HashCodeEquals.Equals" />
       <module name="curso-java" />
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.genericSetMap.generics.genericsDelimitados.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.generics.genericsDelimitados.application.Program" />
+    <configuration name="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.generics.genericsDelimitados.application.*" />
+          <option name="PATTERN" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" />
         <item itemvalue="Application.HashCode" />
         <item itemvalue="Application.Equals" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.anotacoes.genericSetMap.Curinga.CuringaDelimitado.application.Program" />
-        <item itemvalue="Application.anotacoes.genericSetMap.generics.genericsDelimitados.application.Program" />
       </list>
     </recent_temporary>
   </component>
