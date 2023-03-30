@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Set">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/ExHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/ExLinkedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/ExTreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/OperacoesConjuntos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/setIgualdade/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/setIgualdade/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/Exercicio1/appplication/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/Exercicio1/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/Exercicio1/files/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +72,9 @@
       <recent name="$PROJECT_DIR$/src/anotacoes/Polimorfismo" />
       <recent name="$PROJECT_DIR$/src/anotacoes/encapsulamento" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/anotacoes/genericSetMap/set/Exercicio1/files" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="applicationConversion" />
       <recent name="anotacoes.membroNaoEstatico" />
@@ -89,7 +89,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.anotacoes.genericSetMap.set.Exercicio1.appplication.Program">
     <configuration name="ExHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.ExHashSet" />
       <module name="curso-java" />
@@ -105,19 +105,6 @@
     </configuration>
     <configuration name="ExLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.ExLinkedHashSet" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.set.setIgualdade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.ExTreeSet" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
@@ -155,13 +142,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="anotacoes.genericSetMap.set.Exercicio1.appplication.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.Exercicio1.appplication.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.genericSetMap.set.Exercicio1.appplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoes.genericSetMap.set.Exercicio1.appplication.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.OperacoesConjuntos" />
         <item itemvalue="Application.ExHashSet" />
         <item itemvalue="Application.ExLinkedHashSet" />
-        <item itemvalue="Application.ExTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -205,14 +205,8 @@
       <workItem from="1679873366905" duration="1636000" />
       <workItem from="1679970759953" duration="38000" />
       <workItem from="1680133854278" duration="1823000" />
-      <workItem from="1680178986643" duration="4475000" />
-    </task>
-    <task id="LOCAL-00004" summary="Criado class">
-      <created>1678030209746</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1678030209746</updated>
+      <workItem from="1680178986643" duration="4490000" />
+      <workItem from="1680186691306" duration="2348000" />
     </task>
     <task id="LOCAL-00005" summary="Criado novas classes">
       <created>1678031589086</created>
@@ -550,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680135787973</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Adicionado anotacoes: Set">
+      <created>1680184426413</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1680184426413</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
