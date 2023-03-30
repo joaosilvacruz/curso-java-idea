@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Set">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo1/application/Program.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: map">
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo2/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo2/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/application/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo1/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo1/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,52 +92,39 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoes.genericSetMap.set.Exercicio1.appplication.Program">
-    <configuration name="ExHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.ExHashSet" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.set.setIgualdade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.ExLinkedHashSet" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.set.setIgualdade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperacoesConjuntos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.OperacoesConjuntos" />
-      <module name="curso-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.set.setIgualdade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.anotacoes.progFuncionalLambda.comparator.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.set.setIgualdade.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="anotacoes.genericSetMap.set.setIgualdade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anotacoes.genericSetMap.Map.Exemplo1.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.Map.Exemplo1.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.genericSetMap.Map.Exemplo1.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anotacoes.genericSetMap.Map.Exemplo2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.Map.Exemplo2.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.genericSetMap.Map.Exemplo2.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +145,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="anotacoes.progFuncionalLambda.comparator.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.progFuncionalLambda.comparator.application.Program" />
+      <module name="curso-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="anotacoes.progFuncionalLambda.comparator.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoes.progFuncionalLambda.comparator.application.Program" />
+        <item itemvalue="Application.anotacoes.genericSetMap.Map.Exemplo2.application.Program" />
+        <item itemvalue="Application.anotacoes.genericSetMap.Map.Exemplo1.application.Program" />
         <item itemvalue="Application.anotacoes.genericSetMap.set.Exercicio1.appplication.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.OperacoesConjuntos" />
-        <item itemvalue="Application.ExHashSet" />
-        <item itemvalue="Application.ExLinkedHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -204,14 +209,7 @@
       <workItem from="1679970759953" duration="38000" />
       <workItem from="1680133854278" duration="1823000" />
       <workItem from="1680178986643" duration="4490000" />
-      <workItem from="1680186691306" duration="3162000" />
-    </task>
-    <task id="LOCAL-00006" summary="Criado novas classes">
-      <created>1678031658709</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1678031658709</updated>
+      <workItem from="1680186691306" duration="7863000" />
     </task>
     <task id="LOCAL-00007" summary="Adicionado métodos">
       <created>1678060229198</created>
@@ -549,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680198908364</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Adicionado anotacoes: map">
+      <created>1680199361891</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199361891</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +593,8 @@
     <MESSAGE value="Adicionado anotacoes: Curingas" />
     <MESSAGE value="Adicionado anotacoes: HashCodeEquals" />
     <MESSAGE value="Adicionado anotacoes: Set" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: Set" />
+    <MESSAGE value="Adicionado anotacoes: map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: map" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
