@@ -1,4 +1,4 @@
-package anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.entities;
+package anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.entities;
 
 import java.util.Objects;
 

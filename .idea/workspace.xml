@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: HashCodeEquals">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/HashCodeEquals/HashCodeEqualsExemplo/entities/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoes/genericSetMap/HashCodeEquals/HashCodeEqualsExemplo/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/HashCodeEquals/HashCodeEqualsCriado/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoes/genericSetMap/HashCodeEquals/HashCodeEqualsExemplo/entities/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/HashCodeEquals/HashCodeEqualsCriado/entities/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program">
+  <component name="RunManager" selected="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.application.Program">
     <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.HashCodeEquals.Equals" />
       <module name="curso-java" />
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" />
+    <configuration name="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.*" />
+          <option name="PATTERN" value="anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,7 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsExemplo.application.Program" />
+        <item itemvalue="Application.anotacoes.genericSetMap.HashCodeEquals.HashCodeEqualsCriado.application.Program" />
         <item itemvalue="Application.HashCode" />
         <item itemvalue="Application.Equals" />
         <item itemvalue="Application.Program" />
@@ -199,21 +199,7 @@
       <workItem from="1679782816509" duration="2119000" />
       <workItem from="1679873366905" duration="1636000" />
       <workItem from="1679970759953" duration="38000" />
-      <workItem from="1680133854278" duration="1355000" />
-    </task>
-    <task id="LOCAL-00001" summary="Criado arquivo idea">
-      <created>1678028820066</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678028820066</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Criado variaveis">
-      <created>1678029142878</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1678029142878</updated>
+      <workItem from="1680133854278" duration="1662000" />
     </task>
     <task id="LOCAL-00003" summary="Criado variaveis">
       <created>1678029228881</created>
@@ -544,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680135337701</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Adicionado anotacoes: HashCodeEquals">
+      <created>1680135346765</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1680135346767</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Adicionado anotacoes: HashCodeEquals">
+      <created>1680135629819</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1680135629819</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
