@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: map">
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo2/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo2/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/application/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/comparator/entities/Product.java" afterDir="false" />
+    <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Lambda">
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/predicate/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/predicate/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo1/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/genericSetMap/Map/Exemplo1/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,14 +205,8 @@
       <workItem from="1679970759953" duration="38000" />
       <workItem from="1680133854278" duration="1823000" />
       <workItem from="1680178986643" duration="4490000" />
-      <workItem from="1680186691306" duration="7863000" />
-    </task>
-    <task id="LOCAL-00007" summary="Adicionado métodos">
-      <created>1678060229198</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1678060229198</updated>
+      <workItem from="1680186691306" duration="8592000" />
+      <workItem from="1680267872361" duration="1566000" />
     </task>
     <task id="LOCAL-00008" summary="Criado novos arquivos">
       <created>1678066167952</created>
@@ -554,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680199361891</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Adicionado anotacoes: Lambda">
+      <created>1680218556266</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1680218556266</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +591,8 @@
     <MESSAGE value="Adicionado anotacoes: HashCodeEquals" />
     <MESSAGE value="Adicionado anotacoes: Set" />
     <MESSAGE value="Adicionado anotacoes: map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: map" />
+    <MESSAGE value="Adicionado anotacoes: Lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado anotacoes: Lambda" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
