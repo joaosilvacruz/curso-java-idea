@@ -5,8 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Stream">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/stream/exercicio/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/stream/exercicio/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationConversion/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationConversion/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationConversion/entities/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationConversion/entities/CurrencyConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationEmployee/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationEmployee/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationEmployee/entities/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationEmployee/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationEmployee/entities/OutsourcedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationEmployee/entities/OutsourcedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException1/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException1/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException1/model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException1/model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException2/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException2/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException2/model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException2/model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException3/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException3/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException3/model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException3/model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationException3/model/exceptions/DomainException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationException3/model/exceptions/DomainException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationFiles/Files/input.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationFiles/Files/input.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationFiles/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationFiles/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationFiles/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationFiles/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationFixacaoSection9/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationFixacaoSection9/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationFixacaoSection9/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationFixacaoSection9/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationProduct/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationProduct/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationProduct/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationProduct/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationStringBuilder/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationStringBuilder/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationStringBuilder/entities/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationStringBuilder/entities/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationStringBuilder/entities/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationStringBuilder/entities/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationTriangle/application/ProgramNoClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationTriangle/application/ProgramNoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationTriangle/application/ProgramWithClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationTriangle/application/ProgramWithClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationTriangle/entities/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationTriangle/entities/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationWorker/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationWorker/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationWorker/entities/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationWorker/entities/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationWorker/entities/HourContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationWorker/entities/HourContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationWorker/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationWorker/entities/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applications/applicationWorker/entitiesEnums/WorkerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacoes/applicationWorker/entitiesEnums/WorkerLevel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,14 +237,7 @@
       <workItem from="1680277897957" duration="7571000" />
       <workItem from="1680396111694" duration="1265000" />
       <workItem from="1680482701505" duration="1151000" />
-      <workItem from="1680517943278" duration="10864000" />
-    </task>
-    <task id="LOCAL-00022" summary="adicionado funcionalidades">
-      <created>1678361599263</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1678361599263</updated>
+      <workItem from="1680517943278" duration="11522000" />
     </task>
     <task id="LOCAL-00023" summary="adicionado exercicios">
       <created>1678376363870</created>
@@ -554,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680529681206</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Adicionado anotacoes: Stream">
+      <created>1680550274024</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1680550274024</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
