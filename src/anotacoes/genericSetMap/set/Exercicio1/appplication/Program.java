@@ -1,7 +1,6 @@
 package anotacoes.genericSetMap.set.Exercicio1.appplication;
 
 import anotacoes.genericSetMap.set.Exercicio1.entities.User;
-import applicationFiles.Product;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
