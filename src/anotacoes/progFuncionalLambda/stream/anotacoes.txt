@@ -1,0 +1,27 @@
+As streams são usadas para processar coleções de dados de forma declarativa e funcional, aplicando operações
+como filtragem, mapeamento e redução.
+Além disso, as streams são usadas para ler ou escrever dados em fluxo contínuo
+
+
+Operações intermediárias em Stream:
+- Produz uma nova stream
+- Só executa quando uma operação terminal é invocada
+
+Exemplos:
+* filter * map * flatmap * peek * distinct * sorted * skip * limit (short-circuit)
+
+-----------------------------------------------------------------------------------
+
+Operações Tterminais em Stream:
+- Produz um objeto não-stream
+- Determina o fim do processamento da stream
+
+Exemplos:
+* forEach * forEachOrdered * toArray * reduce * collect * max * count
+* annyMatch(short-circuit) * allMatch (short-circuit) * noneMatch (short-circuit)
+
+.Obs> Short circuit sao operações que assim que realizar a ação desejada, o sistema para, não terminando de executar a ação
+
+
+
+
