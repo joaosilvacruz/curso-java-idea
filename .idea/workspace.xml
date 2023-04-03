@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Lambda">
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/function/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/function/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/function/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/function/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,21 +206,8 @@
       <workItem from="1680186691306" duration="8592000" />
       <workItem from="1680267872361" duration="2178000" />
       <workItem from="1680277897957" duration="7571000" />
-      <workItem from="1680396111694" duration="969000" />
-    </task>
-    <task id="LOCAL-00012" summary="Adicionado arquivos">
-      <created>1678214491594</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1678214491594</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Adicionado arquivos">
-      <created>1678214752702</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1678214752702</updated>
+      <workItem from="1680396111694" duration="1265000" />
+      <workItem from="1680482701505" duration="432000" />
     </task>
     <task id="LOCAL-00014" summary="Adicionado prints">
       <created>1678215251422</created>
@@ -552,7 +538,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680396826789</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Adicionado anotacoes: Lambda">
+      <created>1680397128944</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1680397128944</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Adicionado anotacoes: Lambda">
+      <created>1680397364824</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1680397364824</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
