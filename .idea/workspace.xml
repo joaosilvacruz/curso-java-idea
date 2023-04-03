@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bd7fe7c-3336-44f3-988b-5504a7c51e61" name="Changes" comment="Adicionado anotacoes: Lambda">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/criandoAPropriaFuncao/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/anotacoes/progFuncionalLambda/interfacesFuncionais/criandoAPropriaFuncao/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <recent name="anotacoes.constructor.application" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.anotacoes.progFuncionalLambda.interfacesFuncionais.function.application.Program">
+  <component name="RunManager" selected="Application.anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anotacoes.progFuncionalLambda.interfacesFuncionais.consumer.application.Program" />
       <module name="curso-java" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.genericSetMap.Map.Exemplo2.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.genericSetMap.Map.Exemplo2.application.Program" />
+    <configuration name="anotacoes.progFuncionalLambda.comparator.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.progFuncionalLambda.comparator.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.genericSetMap.Map.Exemplo2.application.*" />
+          <option name="PATTERN" value="anotacoes.progFuncionalLambda.comparator.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anotacoes.progFuncionalLambda.comparator.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anotacoes.progFuncionalLambda.comparator.application.Program" />
+    <configuration name="anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.application.Program" />
       <module name="curso-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anotacoes.progFuncionalLambda.comparator.application.*" />
+          <option name="PATTERN" value="anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.application.Program" />
         <item itemvalue="Application.anotacoes.progFuncionalLambda.interfacesFuncionais.function.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.anotacoes.progFuncionalLambda.interfacesFuncionais.predicate.application.Program" />
         <item itemvalue="Application.anotacoes.progFuncionalLambda.comparator.application.Program" />
-        <item itemvalue="Application.anotacoes.genericSetMap.Map.Exemplo2.application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -207,28 +207,7 @@
       <workItem from="1680267872361" duration="2178000" />
       <workItem from="1680277897957" duration="7571000" />
       <workItem from="1680396111694" duration="1265000" />
-      <workItem from="1680482701505" duration="432000" />
-    </task>
-    <task id="LOCAL-00014" summary="Adicionado prints">
-      <created>1678215251422</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1678215251422</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Adicionado prints">
-      <created>1678215257844</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1678215257844</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Adicionado funcionalidades">
-      <created>1678233083386</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1678233083386</updated>
+      <workItem from="1680482701505" duration="737000" />
     </task>
     <task id="LOCAL-00017" summary="Adicionado funcionalidades">
       <created>1678281264477</created>
@@ -552,7 +531,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680397364824</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Adicionado anotacoes: Lambda">
+      <created>1680483325922</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1680483325923</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Adicionado anotacoes: Lambda">
+      <created>1680483411605</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1680483411605</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Adicionado anotacoes: Lambda">
+      <created>1680483438895</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1680483438895</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
