@@ -1,4 +1,4 @@
-package anotacoes.progFuncionalLambda.interfacesFuncionais.criandoAPropriaFuncao.entities;
+package anotacoes.progFuncionalLambda.interfacesFuncionais.predicate.criandoOProprioPredicado.entities;
 
 public class Product {
     private String name;
