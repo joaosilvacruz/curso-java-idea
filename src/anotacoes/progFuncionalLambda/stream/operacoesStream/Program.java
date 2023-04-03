@@ -1,6 +1,5 @@
-package anotacoes.progFuncionalLambda.stream.application;
+package anotacoes.progFuncionalLambda.stream.operacoesStream;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
